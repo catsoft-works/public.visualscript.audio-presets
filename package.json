@@ -1,0 +1,23 @@
+{
+  "name": "works.catsoft.visualscript-audio-presets",
+  "version": "1.0.1",
+  "displayName": "Visual Script - Audio Presets",
+  "description": "Audio Preset assets that share audio settings across multiple audio players",
+  "documentationUrl": "https://docs.visualscript.dev/audio-presets",
+  "changelogUrl": "https://docs.visualscript.dev/manual/releases",
+  "licensesUrl": "https://visualscript.dev/terms-of-service",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "works.catsoft.visualscript": "1.0.1"
+  },
+  "keywords": [
+    "Visual Scripting"
+  ],
+  "author": {
+    "name": "Catsoft Works",
+    "email": "hello@catsoft.works",
+    "url": "https://catsoft.works"
+  }
+}
